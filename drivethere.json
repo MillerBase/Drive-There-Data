@@ -1,0 +1,61 @@
+Drive There - The Bahamas Business Listings - Remote JSON Data
+
+[{
+"id": 0,
+"businessname": "Pisces Seafood House & Pizzeria",
+"address": "Port Lucaya Marketplace, Freeport, Grand Bahama, The Bahamas",
+"phone": 2423735192,
+"website": "",
+"typeofbusiness": "Restaurant",
+"services": [
+"Dine-In", 
+"Takeout",
+"No delivery"
+],
+"latitude": 78.334433,
+"longitude": -120.30942,
+"paymentforms": [
+"Debit Card",
+"Credit Card",
+"Cash"
+],
+"hours": [
+"Sunday: Closed",
+"Monday: 4:00PM - 11:00PM",
+"Tuesday: 4:00PM - 11:00PM",
+"Wednesday: 4:00PM - 11:00PM",
+"Thursday: 4:00PM - 11:00PM",
+"Friday: 4:00PM - 11:00PM",
+"Saturday: 4:00PM - 11:00PM"
+]
+},
+{
+"id": 1,
+"businessname": "Zorba's Greek Restaurant",
+"address": "Port Lucaya Marketplace, Freeport, Grand Bahama, The Bahamas",
+"phone": 2423736137,
+"website": "",
+"typeofbusiness": "Restaurant",
+"services": [
+"Dine-In",
+"Takeout",
+"No delivery"
+],
+"latitude": 79.334433,
+"longitude": -118.30942,
+"paymentforms": [
+"Debit Card",
+"Credit Card",
+"Cash"
+],
+"hours": [
+"Sunday: 7:00AM - 10:00PM",
+"Monday: 7:00AM - 10:00PM",
+"Tuesday: 7:00AM - 10:00PM",
+"Wednesday: 7:00AM - 10:00PM",
+"Thursday: 7:00AM - 10:00PM",
+"Friday: 7:00AM - 11:00PM",
+"Saturday: 7:00AM - 11:00PM"
+]
+}
+]
