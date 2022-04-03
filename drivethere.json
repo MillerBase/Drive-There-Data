@@ -1,7 +1,10 @@
 [{
 "id": 0,
 "businessname": "Pisces Seafood House & Pizzeria",
-"address": "Port Lucaya Marketplace, Freeport, Grand Bahama, The Bahamas",
+"streetaddress": "Port Lucaya Marketplace",
+"citytown": "Freeport",
+"island": "Grand Bahama",
+"country": "The Bahamas",
 "phone": 2423735192,
 "website": "",
 "typeofbusiness": "Restaurant",
@@ -30,7 +33,10 @@
 {
 "id": 1,
 "businessname": "Zorba's Greek Restaurant",
-"address": "Port Lucaya Marketplace, Freeport, Grand Bahama, The Bahamas",
+"streetaddress": "Port Lucaya Marketplace",
+"citytown": "Freeport",
+"island": "Grand Bahama",
+"country": "The Bahamas",
 "phone": 2423736137,
 "website": "",
 "typeofbusiness": "Restaurant",
