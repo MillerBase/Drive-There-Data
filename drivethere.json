@@ -1,10 +1,14 @@
-[{
+{
+"businesses": [{
 "id": 0,
 "businessname": "Pisces Seafood House & Pizzeria",
-"streetaddress": "Port Lucaya Marketplace",
+"address": {
+"streetaddress1": "Port Lucaya Marketplace",
+"streetaddress2": "",
 "citytown": "Freeport",
 "island": "Grand Bahama",
-"country": "The Bahamas",
+"country": "The Bahamas"
+},
 "phone": "(242) 373-5192",
 "website": "",
 "typeofbusiness": "Restaurant",
@@ -13,8 +17,10 @@
 "Takeout",
 "No delivery"
 ],
+"coordinates": {
 "latitude": 30.808468,
-"longitude": 38.514197,
+"longitude": 38.514197
+},
 "paymentforms": [
 "Debit Card",
 "Credit Card",
@@ -22,21 +28,24 @@
 ],
 "hours": [
 "Sunday: Closed",
-"Monday: 4:00PM - 11:00PM",
-"Tuesday: 4:00PM - 11:00PM",
-"Wednesday: 4:00PM - 11:00PM",
-"Thursday: 4:00PM - 11:00PM",
-"Friday: 4:00PM - 11:00PM",
-"Saturday: 4:00PM - 11:00PM"
+"Monday: 4:00 PM - 11:00 PM",
+"Tuesday: 4:00 PM - 11:00 PM",
+"Wednesday: 4:00 PM - 11:00 PM",
+"Thursday: 4:00 PM - 11:00 PM",
+"Friday: 4:00 PM - 11:00 PM",
+"Saturday: 4:00 PM - 11:00 PM"
 ]
 },
 {
 "id": 1,
 "businessname": "Zorba's Greek Restaurant",
-"streetaddress": "Port Lucaya Marketplace",
+"address": {
+"streetaddress1": "Port Lucaya Marketplace",
+"streetaddress2": "",
 "citytown": "Freeport",
 "island": "Grand Bahama",
-"country": "The Bahamas",
+"country": "The Bahamas"
+},
 "phone": "(242) 373-6137",
 "website": "",
 "typeofbusiness": "Restaurant",
@@ -45,21 +54,22 @@
 "Takeout",
 "No delivery"
 ],
+"coordinates": {
 "latitude": 30.769892,
-"longitude": 38.556221,
+"longitude": 38.556221
+},
 "paymentforms": [
 "Debit Card",
 "Credit Card",
 "Cash"
 ],
 "hours": [
-"Sunday: 7:00AM - 10:00PM",
-"Monday: 7:00AM - 10:00PM",
-"Tuesday: 7:00AM - 10:00PM",
-"Wednesday: 7:00AM - 10:00PM",
-"Thursday: 7:00AM - 10:00PM",
-"Friday: 7:00AM - 11:00PM",
-"Saturday: 7:00AM - 11:00PM"
-]
-}
-]
+"Sunday: 7:00 AM - 10:00 PM",
+"Monday: 7:00 AM - 10:00 PM",
+"Tuesday: 7:00 AM - 10:00 PM",
+"Wednesday: 7:00 AM - 10:00 PM",
+"Thursday: 7:00 AM - 10:00 PM",
+"Friday: 7:00 AM - 11:00 PM",
+"Saturday: 7:00 AM - 11:00 PM"
+]}
+]}
